@@ -10,22 +10,25 @@
 	  "logo":"https://epg.112114.xyz/logo/{name}.png"
 	}],
 	"sites":[
+
+		{    
+			"key": "七七tv",
+			"name": "77剧院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": {
+				"数组":" class=\"col-md-2&&</li>",       
+				"链接":"href=\"&&\"",
+				"图片":"data-original=\"&&\"",
+				"标题":"title=\"&&\"",
+				"副标题":"class=\"note text-bg-r\">&&</span>",               
+				"线路数组":" class=\"gico&&</a>[排序:奇艺>优酷>腾讯>芒果>天空>闪电]",   
+				"分类":"电影$qiqidy#电视剧$qiqids#动漫$qiqidm#综艺$qiqizy#香港剧$tvbds#大陆剧$daluds#韩剧$ganjyds#日剧$rijuds#动作片$dongzuody#喜剧片$xijudy",    
+				"分类url":"https://www.ykjyyy.com/{cateId}/index___{catePg}.html"   
+				}
+		},     
+
 		{
-			{    "key": "七七tv",
-	                "name": "77剧院",
-	                "type": 3,
-	                "api": "csp_XBPQ",
-	                "ext": {
-			"数组":" class=\"col-md-2&&</li>",       
-			"链接":"href=\"&&\"",
-			"图片":"data-original=\"&&\"",
-			"标题":"title=\"&&\"",
-			"副标题":"class=\"note text-bg-r\">&&</span>",               
-			"线路数组":" class=\"gico&&</a>[排序:奇艺>优酷>腾讯>芒果>天空>闪电]",   
-			"分类":"电影$qiqidy#电视剧$qiqids#动漫$qiqidm#综艺$qiqizy#香港剧$tvbds#大陆剧$daluds#韩剧$ganjyds#日剧$rijuds#动作片$dongzuody#喜剧片$xijudy",    
-			    "分类url":"https://www.ykjyyy.com/{cateId}/index___{catePg}.html"   
-	        }
-	        },        
 			"key": "lziapi",
 			"name": "量子资源(切)",
 			"api": "http://cj.lziapi.com/api.php/provide/vod/",
